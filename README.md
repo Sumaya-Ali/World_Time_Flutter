@@ -1,6 +1,14 @@
 # world_time
 
-A simple flutter application to find out the weather in some location
+A simple flutter application to find out the time in some location
+
+
+![main](https://user-images.githubusercontent.com/52631071/204487992-a1b0efb3-4a2b-4766-8a97-a17cb2dfca24.PNG)
+
+
+![choose location](https://user-images.githubusercontent.com/52631071/204488018-478b228c-60e4-45f0-88b2-0fbc4d8e61d7.PNG)
+
+
 
 ## Getting Started
 
